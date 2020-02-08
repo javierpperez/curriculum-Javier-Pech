@@ -1,0 +1,25 @@
+.linea{
+    border-left: 1px solid black;
+}
+
+.encabezado{
+color: darkgrey;
+font-size: 12vw;
+}
+
+.titulo{
+font-size: 24px;    
+}
+
+.subtitulo{
+    font-size: 18px;
+}
+
+.texto{
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.lista{
+    list-style: none;
+}
